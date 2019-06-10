@@ -1,0 +1,19 @@
+{
+    "news": [ 
+        { 
+            "id": 1, 
+            "title": "news_1", 
+            "date": "2019-01-01T20:56:35", 
+            "body": "The news", 
+            "deleted": false
+        },
+        { 
+            "id": 2, 
+            "title": "news_2", 
+            "date": "2019-01-01T21:56:35", 
+            "body": "The news", 
+            "deleted": false
+        }
+    ], 
+    "news_count": 2
+}
