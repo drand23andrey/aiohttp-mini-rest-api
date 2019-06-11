@@ -3,7 +3,7 @@
         { 
             "id": 1, 
             "title": "news_1", 
-            "date": "2019-01-01T20:56:35", 
+            "date": "2019-07-07T20:56:35",
             "body": "The news", 
             "deleted": false
         },
@@ -13,7 +13,42 @@
             "date": "2019-01-01T21:56:35", 
             "body": "The news", 
             "deleted": false
+        },
+        {
+            "id": 3,
+            "title": "news_3",
+            "date": "2019-02-01T21:56:35",
+            "body": "The news",
+            "deleted": true
+        },
+        {
+            "id": 4,
+            "title": "news_4",
+            "date": "2020-02-01T21:56:35",
+            "body": "The news",
+            "deleted": false
+        },
+        {
+            "id": 5,
+            "title": "news_5",
+            "date": "2020-02-01T21:56:36",
+            "body": "The news",
+            "deleted": false
+        },
+        { 
+            "id": 6, 
+            "title": "news_2", 
+            "date": "2019-03-01T21:56:35", 
+            "body": "The news", 
+            "deleted": false
+        },
+        { 
+            "id": 7, 
+            "title": "news_2", 
+            "date": "2019-03-01T21:57:35", 
+            "body": "The news", 
+            "deleted": false
         }
     ], 
-    "news_count": 2
+    "news_count": 5
 }
